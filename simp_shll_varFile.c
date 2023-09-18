@@ -15,7 +15,8 @@ int simp_shll_replace_string(char **old, char *new)
 }
 
 /**
- * simp_shll_is_chain - test to check if current char in buffer is a chain delimeter
+ * simp_shll_is_chain - test to check if current
+ * char in buffer is a chain delimeter
  * @p: current position of address in buff
  * @buf: char buffer
  * @info: struct parameter

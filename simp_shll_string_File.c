@@ -19,7 +19,8 @@ int _simp_shll_strlen(char *s)
 }
 
 /**
- * simp_shll_starts_with - performs a check to see if needle starts with an haystack
+ * simp_shll_starts_with - performs a check
+ * to see if needle starts with an haystack
  * @needle: the substring to find
  * @haystack: the string to search
  * Return: returns the address of the next char of haystack

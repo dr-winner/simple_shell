@@ -47,7 +47,8 @@ char **simp_shll_strtow2(char *str, char d)
 }
 
 /**
- * **simp_shll_strtow - Strings are splitted into words. Repeated delimiters are ignored
+ * **simp_shll_strtow - Strings are splitted
+ * into words. Repeated delimiters are ignored
  * @d: string delimeter
  * @str: string input
  * Return: points to an array of str
