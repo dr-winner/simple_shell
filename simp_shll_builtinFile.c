@@ -63,7 +63,7 @@ int _simp_shll_mycd(info_t *info)
 			return (1);
 		}
 		_simp_shll_puts(_simp_shll_getenv(info, "OLDPWD=")), _simp_shll_putchar('\n');
-		chdir_ret = /* TODO: what should this be? */
+		chdir_ret =
 			chdir((dir = _simp_shll_getenv(info, "OLDPWD=")) ? dir : "/");
 	}
 	else

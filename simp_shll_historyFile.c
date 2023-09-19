@@ -101,7 +101,7 @@ int simp_shll_read_history(info_t *info)
 }
 
 /**
- * simp_shll_build_history_list - this function adds entry to a history linked list
+ * simp_shll_build_history_list - this f adds entry to a history linked list
  * @info: this is the structure containing potential arguments
  * Used to maintain
  * @buf: the buffer
@@ -140,3 +140,4 @@ int simp_shll_renumber_history(info_t *info)
 	}
 	return (info->histcount = i);
 }
+

@@ -161,3 +161,4 @@ void simp_shll_sigintHandler(__attribute__((unused))int sig_num)
 	_simp_shll_puts("$ ");
 	_simp_shll_putchar(BUF_FLUSH);
 }
+
