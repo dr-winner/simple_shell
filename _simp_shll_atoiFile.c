@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * simp_shll_interactive - the function returns true if shell is simp_shll_interactive mode
+ * simp_shll_interactive - returns true if shell is simp_shll_interactive mode
  * @info: the struct address
  * Return: 1 if simp_shll_interactive mode, else 0
  */

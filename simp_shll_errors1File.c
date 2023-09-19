@@ -120,7 +120,7 @@ char *simp_shll_convert_number(long int num, int base, int flags)
 }
 
 /**
- * simp_shll_remove_comments - this function replaces first instance of '#' with '\0'
+ * simp_shll_remove_comments - this replaces first instance of '#' with '\0'
  * @buf: the address of the string to modify
  * Return: Always return 0;
  */

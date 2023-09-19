@@ -82,7 +82,7 @@ int _simp_shll_mycd(info_t *info)
 }
 
 /**
- * _simp_shll_myhelp - function here changes the current directory of the process
+ * _simp_shll_myhelp - this changes the current directory of the process
  * @info: this is the structure containing potential arguments
  *  Used to maintain
  * constant function prototype

@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * simp_shll_get_environ - function returns the string array copy of our environ
+ * simp_shll_get_environ - funct returns the string array copy of our environ
  * @info: this is the structure containing potential arguments
  * Used to maintain constant function prototype.
  * Return: Always return 0
